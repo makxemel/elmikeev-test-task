@@ -4,19 +4,16 @@
 - `clone`
 
 - `docker-compose up -d --build app`
-
-- `docker-compose run --rm composer update`
-
-- `docker-compose run --rm composer install`
-
 - `docker-compose up -d`
-
 - `cp .env.example .env`
 
 ### .env
 `API_KEY=add_key`
 
+- `docker-compose run --rm composer update`
+- `docker-compose run --rm composer install`
 - `docker-compose run --rm artisan migrate`
+- `docker-compose run --rm artisan parser:start`
 
 ### 
 
