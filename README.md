@@ -1,4 +1,5 @@
 # Парсер на Laravel
+### ДОСТУП К БД ОПИСАН ЗДЕСЬ: https://privnote.com/1sabjYpX#dQe5GIGGK
 Тестовое задание от elmikeev: https://github.com/cy322666/wb-api
 ## Инструкция
 - `clone`
